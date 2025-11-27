@@ -11,6 +11,7 @@ Name of the apparatus
 Range / Type	
 Quantity
 
+
 1	Incandescent Lamp	60W	1 No.
 2	Lamp Holder	Pendent Type	1 No.
 3	SPDT Switch	230V,5A	2 Nos
@@ -39,12 +40,27 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+Direct connection: CIRCUIT DIAGRAM:1
+<img width="1609" height="836" alt="beee 1 circuit" src="https://github.com/user-attachments/assets/d2e13aa0-f84b-4825-8bd3-1ba013765582" />
+CIRCUIT DIAGRAM:2
+<img width="1586" height="835" alt="bee 2 circuit" src="https://github.com/user-attachments/assets/7497d972-19e4-4fe7-bab0-940de9e47ba9" />
+CIRCUIT DIAGRAM:3
 
-Tabulation:2
+<img width="297" height="250" alt="bee 1 tabulation" src="https://github.com/user-attachments/assets/b414fae3-54eb-4d18-abc6-cf0101553323" />
+
+
+<img width="262" height="185" alt="bee 2 tabulation" src="https://github.com/user-attachments/assets/7cd640e1-9fcf-4ea8-a362-2a2294f9773b" />
+
+
+
+Cross connection: CIRCUIT DIAGRAM:4
+<img width="1586" height="802" alt="beee 3 circuit" src="https://github.com/user-attachments/assets/051e5620-e979-4631-bbbf-18e8b0272d07" />
+<img width="1535" height="826" alt="bee 4 circuit" src="https://github.com/user-attachments/assets/f39909ea-80ea-4c34-9589-d3455fa51bfb" />
+
+Tabulation:
+
+<img width="334" height="534" alt="tabulation" src="https://github.com/user-attachments/assets/f17ce5af-85d3-4499-84a7-2e8880329f62" />
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
